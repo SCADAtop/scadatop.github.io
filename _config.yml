@@ -28,8 +28,8 @@ url: "https://scadatop.github.io"
 github:
   username: scadatop # change to your GitHub username
 
-twitter:
-  username: scadatop # change to your Twitter username
+docker:
+  username: scadatop # change to your Docker username
 
 social:
   # Change to your full name.
@@ -38,8 +38,7 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/scadatop # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/221240654?s=400&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
